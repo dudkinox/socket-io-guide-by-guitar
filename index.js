@@ -21,6 +21,6 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(7778, () => {
+server.listen(1412, () => {
   console.log("server is running");
 });
